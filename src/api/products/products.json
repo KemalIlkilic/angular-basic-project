@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Öznur Mama",
+    "codeName": "Matrix",
+    "ozellik" : "Çok eğlenceli neşeli bir Mama",
+    "starRating": 4.0,
+    "description": "Kendisi İrem'in annesi ve fazlasiyla tatli bir insandir.",
+    "imageUrl": "assets/images/mama.jpeg"
+  },
+  {
+      "id": 2,
+      "name": "Alaska",
+      "codeName": "pusu kurucu",
+      "ozellik" : "Hırçın",
+      "starRating": 2.0,
+      "description": "Huysuz, gergin kötü bir kedi!",
+      "imageUrl": "assets/images/alaska.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Kemal(Sevgilisi)",
+      "codeName": "İrem IŞIK LOVER",
+      "ozellik" : "İrem'e aşık",
+      "starRating": 5.0,
+      "description": "İremin kocası ve iremi çoook seviyor ona aşık",
+      "imageUrl": "assets/images/kemal.jpeg"
+    }
+]
